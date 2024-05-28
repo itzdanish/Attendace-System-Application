@@ -1,0 +1,12 @@
+{
+    "name" : "api-attendance developement",
+    "database" : {
+        "host" : "localhost",
+        "user" : "root",
+        "name" : "attendance"
+    },
+    "email" : {
+        "host": "smtp-relay.sendinblue.com",
+        "user" : "ab786219@gmail.com"
+    }
+}

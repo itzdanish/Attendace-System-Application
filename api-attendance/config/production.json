@@ -1,0 +1,12 @@
+{
+    "name" : "api-attendance production",
+    "database" : {
+        "host" : "remotemysql.com",
+        "user" : "69hAhYgrsS",
+        "name" : "69hAhYgrsS"
+    },
+    "email" : {
+        "host": "smtp-relay.sendinblue.com",
+        "user" : "ab786219@gmail.com"
+    }
+}
